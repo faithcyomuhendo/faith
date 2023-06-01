@@ -1,0 +1,199 @@
+
+P{ 
+    font-size: 25px;
+    text-align: left;
+    font-family: monospace;
+margin-left: -225PX;
+margin-top: 50px;
+}
+body{
+    background: linear-gradient(45deg,rgba(231, 106, 106, 0.486) 50%,rgb(93, 245, 161) 50%) ;
+    height: 100vh;
+    user-select: none;
+}
+select{
+    width: 200px;
+    height: 30PX;
+    font-size: 25px;
+    text-align: left;
+    outline: none;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+    font-family: monospace;
+margin-left: -225PX;
+margin-top: 90px; 
+}
+.rimwe{
+    position: fixed;
+    width: 3000px;
+    height: 100px;
+    background-color: rgba(23, 128, 189, 0.692);
+    box-shadow: 0px 0px 2px 2px;
+    align-items: center;
+}
+
+
+.gatatu{
+    font-family: monospace;
+    position: fixed;
+    /* right: 40%; */
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    right: 60%;
+    transition: .3s;
+
+}
+.gatatu:hover{
+    transform: scale(1.2);
+}
+.kabiri{
+    position: fixed;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: none;
+    right: 70%;
+    bottom: 91.5%;
+    transition: .3s;
+    
+}
+.kabiri:hover{
+    transform: scale(1.2);
+}
+.KANE{
+    position:fixed;
+    font-family: monospace;
+    right: 50%;
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    transition: .3s;
+    
+
+}
+.KANE:hover{
+    transform: scale(1.2);
+}
+
+
+.kk{
+    position: fixed;
+    top: -0%;
+    font-family: monospace;
+    right: 85%;
+    font-size: 20px;
+}
+.gatandatu{
+    position: fixed;
+    font-family: monospace;
+    right: 20%;
+    font-size: 25PX;
+    top: -9.5%;
+    bottom: 94%;
+    transition: .3s;
+
+
+}
+select{
+    background-color: orange;
+    transition: .3s ;
+}
+select:hover{
+ transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+    color: rgb(190, 46, 101);
+
+}
+.shema{
+    width: 50%;
+    height: 100px;
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+    position: fixed;
+    background-color: transparent;
+    align-items: center;
+    top: 20%;
+    right: 25%;
+    box-shadow: 0px 0px 2px 2px;
+}
+.shamsi{
+
+}
+body{
+    background-color:;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.kalfher{
+    position: fixed;
+    width: 300px;
+    height:250px;
+    top: 38%;
+    left: 5%;
+}
+.ntore{
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(29, 30, 31);
+    width: 300px;
+    height: 300px;
+    background-color: rgba(255, 0, 0, 0.315);
+    position: fixed;
+    width: 600px;
+    height:280px;
+    bottom: 30%;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 16px;
+    align-items: center;
+    right: 1%;
+}
+.kendy{
+    position: fixed;
+    width: 400px;
+    height: 300px;
+    bottom: 25%;
+    right: 68%;
+    justify-content: center;
+    align-items: center;
+    border: none;
+
+}
+img{
+    position: absolute;
+    /* width: 400px;
+    height: 300px; */
+    width: 400px;
+    transition: .3s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.subkendy{
+    position: absolute;
+    font-family: monospace;
+    background-color: aqua;
+    bottom: 22%;
+   
+    left: 3%;
+}
+.amagambo{
+    position: fixed;
+    width: 400px;
+    height: 300px;
+    bottom: -18%;
+    right: 68%;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-family: monospace;
+}
+button{
+    border-radius: 4px;
+    background-color: rgb(231, 130, 130);
+}

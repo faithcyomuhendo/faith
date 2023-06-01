@@ -1,0 +1,135 @@
+.rimwe{
+    position: fixed;
+    width: 3000px;
+    height: 100px;
+    background-color: rgba(23, 128, 189, 0.692);
+    box-shadow: 0px 0px 2px 2px;
+    align-items: center;
+    right: ;
+    
+}
+h2{
+    right: 78%;
+    color: rgb(190, 46, 101);
+    position: fixed;
+}
+a{
+    text-decoration: none;
+    color: rgb(190, 46, 101);
+}
+.gatatu{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: fixed;
+    /* right: 40%; */
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    right: 60%;
+    transition: .3s;
+
+}
+.gatanu{
+    position: fixed;
+    font-family: monospace;
+    right: 30%;
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    transition: .3s;
+
+}
+.kabiri{
+    position: fixed;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: none;
+    right: 70%;
+    bottom: 91.5%;
+    transition: .3s;
+}
+.gatanu{
+    position: fixed;
+    font-family: monospace;
+    right: 50%;
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    transition: .3s;
+
+}
+body{
+    background-color: beige;
+}
+.KANE{
+    position:fixed;
+    font-family: monospace;
+    right: 60%;
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    transition: .3s;
+    
+
+}
+input[type ]{
+    transition: .3s ease-in;
+}
+input[type=submit]:hover{
+    background-color: rgb(32, 34, 33);
+    color: rgb(250, 200, 125);
+}
+input{
+    border-radius:5px ;
+    width: 300px;
+    height: 30px;
+    background: transparent;
+    font-family: monospace;
+    text-align: center;
+ 
+
+}
+button{ 
+    height: 25px;
+    font-family: monospace;
+}
+.one{
+    position: fixed;
+    width: 0px;
+    height: 60px;
+    bottom: 67%;
+    right: 64.5%;
+    transition: .3s;
+}
+.one:hover{
+    transform: scale(1.1);
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+}
+.two{
+    position:fixed;
+    height: 300px;
+    width: 200px;
+   
+    bottom: 34%;
+    right: 15%;
+    transition: .3s;
+}
+.two:hover{
+transform: scale(1.1);
+} 
+form{
+    position: fixed;
+    top: 28%;
+    left: 5%;
+}
+.tt{
+    position: fixed;
+    height: 150px;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.521);
+    bottom: 1%;
+    font-family: monospace;
+}

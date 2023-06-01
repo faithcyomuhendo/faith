@@ -1,0 +1,153 @@
+
+P{ 
+    font-size: 25px;
+    text-align: left;
+    font-family: monospace;
+margin-left: -225PX;
+margin-top: 50px;
+}
+select{
+    width: 200px;
+    height: 30PX;
+    font-size: 25px;
+    text-align: left;
+    outline: none;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+    font-family: monospace;
+margin-left: -225PX;
+margin-top: 90px; 
+}
+.rimwe{
+    position: fixed;
+    width: 3000px;
+    height: 100px;
+    background-color: rgb(132, 238, 238);
+    box-shadow: 0px 0px 2px 2px;
+    top: 1%;
+    
+}
+
+.gatatu{
+    font-family: monospace;
+    position: fixed;
+    /* right: 40%; */
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    right: 60%;
+    transition: .3s;
+
+}
+.gatatu:hover{
+    transform: scale(1.2);
+}
+.kabiri{
+    position: fixed;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: none;
+    right: 70%;
+    bottom: 91.5%;
+    transition: .3s;
+}
+.kabiri:hover{
+    transform: scale(1.2);
+}
+.KANE{
+    position:fixed;
+    font-family: monospace;
+    right: 50%;
+    font-size: 25PX;
+    top: 4%;
+    bottom: 94%;
+    transition: .3s;
+    
+
+}
+.KANE:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+}
+.kk{
+    position: fixed;
+    top: 2%;
+    font-family: monospace;
+    right: 85%;
+}
+.gatandatu{
+    position: fixed;
+    font-family: monospace;
+    right: 20%;
+    font-size: 25PX;
+    top: -9.5%;
+    bottom: 94%;
+    transition: .3s;
+
+
+}
+select{
+    background-color: orange;
+    transition: .3s ;
+}
+select:hover{
+ transform: scale(1.2);
+}
+a{
+    color: orange;
+}
+.shema{
+    width: 50%;
+    height: 100px;
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+    position: fixed;
+    background-color: transparent;
+    align-items: center;
+    top: 20%;
+    right: 25%;
+    box-shadow: 0px 0px 2px 2px;
+}
+.shamsi{
+
+}
+body{
+    background-color:;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background: linear-gradient(45deg, rgb(204, 233, 240) 50%,rgb(240, 212, 161) 50%) ;
+   height: 100vh;
+}
+.kalfher{
+    position: fixed;
+    width: 300px;
+    height:250px;
+    top: 38%;
+    left: 5%;
+}
+.ntore{
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(29, 30, 31);
+    width: 300px;
+    height: 300px;
+    background-color: rgba(204, 233, 240, 0.658);
+    position: fixed;
+    width: 600px;
+    height:200px;
+    top: 50%;
+    right: 5%;
+    align-items: center;
+    border-radius: 5px;
+}
+.kiriku{
+    position: fixed;
+    width: 300px;
+    background-color: aqua;
+    height:300px ;
+}
+

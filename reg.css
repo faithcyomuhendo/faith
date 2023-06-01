@@ -1,0 +1,18 @@
+form{
+    position: fixed;
+    bottom: 40%;
+    right: 38%;
+  background-color: transparent;
+
+} 
+body{
+    background: linear-gradient(45deg,rgba(231, 106, 106, 0.486) 50%,rgb(93, 245, 161) 50%) ;
+    height: 100vh;
+}
+input{
+    background-color: transparent;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
